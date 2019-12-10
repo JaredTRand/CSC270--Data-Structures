@@ -1,7 +1,7 @@
 # CSC270--Data-Structures
 ## Jared Rand
 
-All the projects we made in Data Structures. The professor provided the skeleton of the program and the test file, and we filled in most of the functions to make them work correctly.
+All the projects we made in Data Structures. Our professor provided the skeleton of the program and the test file, and we filled in most of the functions to make them work correctly.
 
 The Projects:
 
